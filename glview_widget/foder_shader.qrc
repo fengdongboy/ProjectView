@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="/">
+    <file>shader/vf_pt_axes.glsl</file>
+    <file>shader/vp_pt_axes.glsl</file>
+    <file>shader/fshader.glsl</file>
+    <file>shader/vf_line.glsl</file>
+    <file>shader/vp_line.glsl</file>
+    <file>shader/vshader.glsl</file>
+    <file>shader/vf_pt.glsl</file>
+    <file>shader/vp_pt.glsl</file>
+    <file>cube.png</file>
+  </qresource>
+</RCC>
